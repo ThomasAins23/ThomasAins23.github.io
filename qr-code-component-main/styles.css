@@ -17,7 +17,7 @@ body {
 section {
     width: 20rem;
     background: var(--white);
-    box-shadow: 0px 1.5625rem 1.5625rem rgba(0, 0, 0, 0.05);
+    box-shadow: 0 1.5625rem 1.5625rem rgba(0, 0, 0, 0.05);
     border-radius: 1.25rem;
     display: flex;
     flex-direction: column;
@@ -32,9 +32,8 @@ img {
     flex-shrink: 0;
     display: flex;
     flex-direction: column;
-    background: #2C7DFA;
-    border-radius: 10px;
-    margin: 1rem 1rem 0rem 1rem;
+    border-radius: 0.625rem;
+    margin: 1rem 1rem 0 1rem;
 }
 
 
@@ -52,7 +51,7 @@ p {
     line-height: normal;
     letter-spacing: 0.01175rem;
     margin: 0 2rem 2.5rem 2rem;
-    color: var(--Grey, #7D889E);
+    color: var(--grayish-blue);
     text-align: center;
     font-feature-settings: 'clig' off, 'liga' off;
 }
@@ -64,5 +63,5 @@ p {
 }
 
 .attribution a {
-    color: hsl(228, 45%, 44%);
+    color: var(--dark-blue);
 }
