@@ -56,12 +56,12 @@ p {
     font-feature-settings: 'clig' off, 'liga' off;
 }
 
-.attribution {
+footer {
     font-size: 0.6875rem;
     text-align: center;
     margin-top: 1rem;
 }
 
-.attribution a {
+footer a {
     color: var(--dark-blue);
 }
