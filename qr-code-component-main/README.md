@@ -25,7 +25,7 @@ This is my first project attempt for Frontend Mentor. I'm excited to get feeback
 
 ### Links
 
-- Live Site URL: (https://thomasains23.github.io/)
+- Live Site URL: (https://thomasains23.github.io/qr-code-component-live/)
 
 ## My process
 I started by identifying the indvidual components of the QR code. While I initially want to wrap everything in a `<div>`, I ended up coming to the conslusion that I could simply have one `<section>` wrapping `<img>`, `<h2>`, and `<p>` elements. After some trial and error with flexbox styling, I finally fit these elements into the container per the design. There was a bit of a learning curve trying to figure out Figma for the first time, but I think it was very helpful for this project and I'm excited to keep using it.
@@ -48,8 +48,6 @@ Pending feedback, I will update accordingly. I also plan to work on the mobile v
 - [Figma's Dev Mode](https://www.youtube.com/watch?v=wk9xSDNboZw) - This helped me turn down the noise and focus in on what was important.
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@ThomasAins23](https://www.frontendmentor.io/profile/ThomasAins23)
 
 ## Acknowledgments
