@@ -14,7 +14,7 @@ body {
     height: 100vh;
 }
 
-section {
+main {
     width: 20rem;
     background: var(--white);
     box-shadow: 0 1.5625rem 1.5625rem rgba(0, 0, 0, 0.05);
@@ -37,12 +37,13 @@ img {
 }
 
 
-h2 {
+.bold {
     font-size: 1.375rem;
     font-weight: 700;
     margin: 0 1rem 0 1rem;
     text-align: center;
     font-feature-settings: 'clig' off, 'liga' off;
+    color: var(--dark-blue);
 }
 
 p {
